@@ -10,26 +10,26 @@ hn-discussion:
 Hi everyone!
 
 This is **[oscillatingworks]**, and we love open source. Our mission is to find
-exciting, independent, homemade open source software projects, work hand by hand
+exciting, independent, homemade open source software projects, work hand in hand
 with their authors and take them to the next level.
 
-Our action plan use to look like this:
+Our action plan looks like this:
 
 - We keep track of small and attractive indie open source projects and report on
   them using our **[compass]**.
-- We discuss the adequacy of each submitted project and take a decision on which
-  could be its next **[phase]**.
+- We discuss the adequacy of each submitted project and make a decision on what
+  its next **[phase]** could be.
 - In case we decide to keep on working on a project, we spend a considerable amount
-  of time on understanding how it works from a technical point of view, and finding
-  its weakest points, so we know the kind of work that it requires.
-- We keep in touch with the authors and tell them our contribution plans, and how they
+  of time on understanding how it works from a technical point of view, finding
+  its weakest points so we know the kind of work that it requires.
+- We keep in touch with the authors and tell them our contribution plans and how they
   fit into author plans. Based on their feedback, we start actively working on the
   project.
 - Once we become official maintainers of the project, we take care that it enjoys
   a healthy lifetime: we handle issues, publish new releases, review and merge pull
   requests, fix bugs, etc.
 
-Our tasks are not limited to technical aspects, we want to make projects more usable
+Our tasks are not limited to technical aspects – we want to make projects more usable
 and appealing for everyone so it implies working in other areas: branding, communication,
 documentation, distribution, etc.
 
@@ -39,7 +39,7 @@ during our spare time, addressing our passion in open source around a concrete i
 philosophy.
 
 And that's pretty much all for now. You can **[follow us on Twitter]** to get latest
-updates, or **[write an email to us]** if you have any question.
+updates, or **[write an email to us]** if you have any questions.
 
 Thanks for reading! 👌
 
